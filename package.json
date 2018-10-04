@@ -1,0 +1,19 @@
+{
+  "name": "cours_site",
+  "version": "1.0.0",
+  "description": "le premier site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliotGeoffroy/test_site.git"
+  },
+  "author": "moi",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/EliotGeoffroy/test_site/issues"
+  },
+  "homepage": "https://github.com/EliotGeoffroy/test_site#readme"
+}
